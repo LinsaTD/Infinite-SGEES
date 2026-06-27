@@ -505,6 +505,7 @@ blockquote {
   width: 100%;
   font-size: 1.2rem;
   text-align: justify;
+  color: white;
 }
 
 .tm-gallery-container {
@@ -1174,7 +1175,7 @@ p {
 }
 
 .tm-client-logo .tm-client-plus {
-  min-height: 120px;
+  min-height: 75px;
 }
 
 .tm-client-plus:hover {
